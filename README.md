@@ -9,7 +9,9 @@
 <img align="right" src="assets/citty.gif" width="240" alt="tapping on the keyboard"/>
 
 I always have something to learn.
+
 Strive for clean code.
+
 Need an interesting project.
 
 
