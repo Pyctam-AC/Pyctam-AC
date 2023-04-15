@@ -10,7 +10,7 @@ I always have something to learn.<br>Strive for clean code.|<img src="assets/cit
 :--- | ---:|
 
 #### My languages and tools:
-
+<p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -18,6 +18,7 @@ I always have something to learn.<br>Strive for clean code.|<img src="assets/cit
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 <img src="https://simpleicons.org/icons/autodesk.svg" width="36" height="36" alt="AUTODESK" />
+</p>
 
 ---
 💼 any freelance work? ✉️ [e-mail](mailto:sultangalievra@gmail.com) me :)
