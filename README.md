@@ -1,13 +1,19 @@
 #### hey there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" height="25"/>
 
-## my name is Rustam
+## I'm Rustam
+
+
 
 #### This is my path in code development.
-
 <a href="https://www.github.com/Pyctam-AC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<img align="right" src="assets/citty.gif" width="240" alt="tapping on the keyboard"/>
 
-I always have something to learn.<br>Strive for clean code.|<img src="assets/citty.gif" width="240" alt="tapping on the keyboard"/>
-:--- | ---:|
+I always have something to learn.
+Strive for clean code.
+Need an interesting project.
+
+
+
 
 #### My languages and tools:
 <p>
