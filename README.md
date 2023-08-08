@@ -19,15 +19,30 @@ Need an interesting project.
 
 
 #### My stack:
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-<img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="36" height="36" alt="Git" />
-<img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" width="36" height="36" alt="Git" />
+
+<h5  align="left">Front-end languages and Tools:</h5>
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a> &nbsp;
+<a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" /> </a> &nbsp;
+<a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="50" height="50" /> </a> &nbsp;
+</p>
+
+<h5 align="left">Back-end languages and Tools:</h5>
+<p align="left">
+<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /> </a> &nbsp;
+<a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" /> </a> &nbsp;
+<a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" /> </a> &nbsp;
+</p>
+
+<h5  align="left">Databases and APIs:</h5>
+<p align="left">
+<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> </a> &nbsp;
+</p>
+
+<h5  align="left">Mobile languages and Tools:</h5>
+<p align="left">
+<a href="https://reactnative.dev/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" /> </a> &nbsp;
 </p>
 
 ---
