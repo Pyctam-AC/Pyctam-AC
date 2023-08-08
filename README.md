@@ -7,16 +7,11 @@
 #### This is my path in code development.
 <a href="https://www.github.com/Pyctam-AC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
-
+---
 
 I always have something to learn.
 
-Strive for clean code.
-
-Need an interesting project.
-
-
-
+---
 
 #### My stack:
 
@@ -47,6 +42,7 @@ Need an interesting project.
 
 ---
 💼 any freelance work? ✉️ [e-mail](mailto:sultangalievra@gmail.com) me :)
+
 
 
 
