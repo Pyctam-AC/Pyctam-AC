@@ -21,6 +21,7 @@ I always have something to learn.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a> &nbsp;
 <a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" /> </a> &nbsp;
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="50" height="50" /> </a> &nbsp;
+<a href="https://tailwindcss.com/"> <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="taiwindCSS" width="50" height="50" /> </a> &nbsp;
 </p>
 
 <h5 align="left">Back-end languages and Tools:</h5>
