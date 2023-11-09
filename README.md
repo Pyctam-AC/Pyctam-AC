@@ -34,7 +34,7 @@ I always have something to learn.
 <h5  align="left">Databases and APIs:</h5>
 <p align="left">
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> </a> &nbsp;
-<a href="https://developers.google.com/apps-script?hl=ru"> <img src="https://www.gstatic.com/script/apps_script_1x_24dp.png" alt="mongodb" width="50" height="50" /> </a> &nbsp;
+<a href="https://developers.google.com/apps-script?hl=ru"> <img src="./assets/apps_script_1x_24dp.png" alt="mongodb" width="50" height="50" /> </a> &nbsp;
 </p>
 
 
