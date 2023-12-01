@@ -1,6 +1,6 @@
-#### hey there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" height="25"/>
+#### Hey,  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" height="25"/>
 
-## I'm Rustam, a frontend developer
+## I'm Rustam and I'm all about making the world a better place with my killer development skills.
 
 <img align="right" src="assets/citty.gif" width="200" alt="tapping on the keyboard"/>
 
@@ -19,6 +19,7 @@ I always have something to learn.
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a> &nbsp;
+<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" /> </a> &nbsp;
 <a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="50" height="50" /> </a> &nbsp;
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="50" height="50" /> </a> &nbsp;
 <a href="https://tailwindcss.com/"> <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="taiwindCSS" width="50" height="50" /> </a> &nbsp;
