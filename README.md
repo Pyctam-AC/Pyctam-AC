@@ -18,32 +18,33 @@ I always have something to learn.
 <h5  align="left">Front-end languages and Tools:</h5>
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a> &nbsp;
-<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" /> </a> &nbsp;
-<a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="50" height="50" /> </a> &nbsp;
-<a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="50" height="50" /> </a> &nbsp;
-<a href="https://tailwindcss.com/"> <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="taiwindCSS" width="50" height="50" /> </a> &nbsp;
-<a href="https://redux-toolkit.js.org/"> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit" width="50" height="50" /> </a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" title='JavaScript'/> </a> &nbsp;
+<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" title='TypeScript'/> </a> &nbsp;
+<a href="https://reactjs.org/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="50" height="50" title='React'/> </a> &nbsp;
+<a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="50" height="50" title='Vite'/> </a> &nbsp;
+<a href="https://tailwindcss.com/"> <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="taiwindCSS" width="50" height="50" title='Tailwind CSS'/> </a> &nbsp;
+<a href="https://redux-toolkit.js.org/"> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit" width="50" height="50" title='Redux Toolkit'/> </a> &nbsp;
 
 </p>
 
 <h5 align="left">Back-end languages and Tools:</h5>
 <p align="left">
-<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /> </a> &nbsp;
-<a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" /> </a> &nbsp;
-<a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" /> </a> &nbsp;
+<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" 
+title='Node.js' /> </a> &nbsp;
+<a href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" title='Express'/> </a> &nbsp;
+<a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" title='NGINX'/> </a> &nbsp;
 </p>
 
 <h5  align="left">Databases and APIs:</h5>
 <p align="left">
-<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> </a> &nbsp;
-<a href="https://developers.google.com/apps-script?hl=ru"> <img src="./assets/apps_script_1x_24dp.png" alt="mongodb" width="50" height="50" /> </a> &nbsp;
+<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" title='MongoDB'/> </a> &nbsp;
+<a href="https://developers.google.com/apps-script?hl=ru"> <img src="./assets/apps_script_1x_24dp.png" alt="mongodb" width="50" height="50" title='Google Apps Script'/> </a> &nbsp;
 </p>
 
 
 <h5  align="left">Mobile languages and Tools:</h5>
 <p align="left">
-<a href="https://reactnative.dev/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" /> </a> &nbsp;
+<a href="https://reactnative.dev/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" title='React Native'/> </a> &nbsp;
 </p>
 
 ---
