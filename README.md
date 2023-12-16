@@ -48,7 +48,12 @@ title='Node.js' /> </a> &nbsp;
 </p>
 
 ---
-💼 any freelance work? ✉️ [e-mail](mailto:sultangalievra@gmail.com) me :)
+<h5  align="left">my Contacts</h5>
+<a href="https://t.me/pyctamAC"> <img src="./assets/telegram-messenger-new4234.jpg" alt="Telegram" width="60" height="50" title='Telegram'/> </a> 
+<p align="left">
+💼 offer cooperation&nbsp;&nbsp; :)
+</p>
+ 
 
 
 
