@@ -5,7 +5,8 @@
 <img align="right" src="assets/citty.gif" width="200" alt="tapping on the keyboard"/>
 
 #### This is my path in code development.
-<a href="https://www.github.com/Pyctam-AC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://pyctam-ac.github.io/sultangaliev-web/" target="_blank" rel="noreferrer"><img src="./assets/R-letter-new.png" width="32" height="32" /> &nbsp; <strong style="color: olive"> - my portfolio site</strong></a> 
+
 
 ---
 
