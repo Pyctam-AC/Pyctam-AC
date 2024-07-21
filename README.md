@@ -51,7 +51,9 @@ title='Node.js' /> </a> &nbsp;
 
 ---
 <h5  align="left">my Contacts</h5>
-<a href="https://t.me/pyctamAC"> <img src="./assets/telegram-messenger-new4234.jpg" alt="Telegram" width="60" height="50" title='Telegram'/> </a> 
+<!-- <a href="https://t.me/pyctamAC"> <img src="./assets/telegram-messenger-new4234.jpg" alt="Telegram" width="60" height="50" title='Telegram'/> </a> 
+<p align="left"> -->
+<a href="https://t.me/pyctamAC"> <img src="./assets/-Telegram-blue.svg" alt="Telegram" width="150" height="40" title='Telegram'/> </a> 
 <p align="left">
 💼 offer cooperation&nbsp;&nbsp; :)
 </p>
