@@ -25,6 +25,7 @@ I always have something to learn.
 <a href="https://angular.dev/" target="_blank"> <img src="./assets/angular_renaissance.png" alt="react" width="50" height="50" title='Angular'/> </a> &nbsp;
 <a href="https://vitejs.dev" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="50" height="50" title='Vite'/> </a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="taiwindCSS" width="50" height="50" title='Tailwind CSS'/> </a> &nbsp;
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SCSS | Sass" width="50" height="50" title='SCSS | Sass'/> </a> &nbsp;
 <a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit" width="50" height="50" title='Redux Toolkit'/> </a> &nbsp;
 <a href="https://rxjs.dev/" target="_blank"> <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="50" height="50" title='RxJS'/> </a> &nbsp;
 
