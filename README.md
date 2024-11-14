@@ -31,11 +31,11 @@ I always have something to learn.
 </p>
 
 <h5 align="left">Back-end languages and Tools:</h5>
-<p align="left">
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" 
 title='Node.js' /> </a> &nbsp;
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" title='Express'/> </a> &nbsp;
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" title='NGINX'/> </a> &nbsp;
+<a href="https://www.docker.com/" target="_blank"> <img src="./assets/docker-189-189.jpg" alt="docker" width="50" height="50" title='docker'/> </a> &nbsp;
 </p>
 
 <h5  align="left">Databases and APIs:</h5>
