@@ -20,7 +20,7 @@ I’m constantly learning and expanding my skillset.
 
 #### Frontend Development 
 
-##### Programming Languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frameworks and Libraries &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Styling and UI Libraries
+##### Programming Languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frameworks and Libraries &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Styling and UI Libraries &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frameworks and Libraries &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;State Management and Data Flow
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/> </a> &nbsp;
@@ -31,11 +31,7 @@ I’m constantly learning and expanding my skillset.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/> </a> &nbsp;
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SCSS | Sass" width="50" height="50" title="SCSS | Sass"/> </a> &nbsp;
-</p>
-
-##### State Management and Data Flow
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit" width="50" height="50" title="Redux Toolkit"/> </a> &nbsp;
 <a href="https://rxjs.dev/" target="_blank"> <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="50" height="50" title="RxJS"/> </a> &nbsp;
 </p>
